@@ -1,0 +1,8 @@
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Domain\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.deps.json
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Domain\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Domain\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.pdb

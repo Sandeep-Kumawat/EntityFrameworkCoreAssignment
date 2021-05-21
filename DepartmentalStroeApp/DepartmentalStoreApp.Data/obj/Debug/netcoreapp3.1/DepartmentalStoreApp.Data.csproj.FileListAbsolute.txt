@@ -1,0 +1,15 @@
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.deps.json
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.runtimeconfig.json
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.runtimeconfig.dev.json
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\bin\Debug\netcoreapp3.1\DepartmentalStoreApp.Domain.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.csprojAssemblyReference.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.csproj.CopyComplete
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStroeApp\DepartmentalStoreApp.Data\obj\Debug\netcoreapp3.1\DepartmentalStoreApp.Data.genruntimeconfig.cache
