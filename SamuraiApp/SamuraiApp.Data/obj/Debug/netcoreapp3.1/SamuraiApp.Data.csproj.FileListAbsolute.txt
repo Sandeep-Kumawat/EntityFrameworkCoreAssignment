@@ -1,0 +1,15 @@
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Data.deps.json
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Data.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Data.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.csprojAssemblyReference.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.csproj.CopyComplete
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Data.runtimeconfig.json
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Data.runtimeconfig.dev.json
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.genruntimeconfig.cache
