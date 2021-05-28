@@ -1,0 +1,14 @@
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Persistence.deps.json
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Persistence.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Persistence.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Application.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Application.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\bin\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Persistence.csprojAssemblyReference.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Persistence.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Persistence.csproj.CopyComplete
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Persistence.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Persistence\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Persistence.pdb

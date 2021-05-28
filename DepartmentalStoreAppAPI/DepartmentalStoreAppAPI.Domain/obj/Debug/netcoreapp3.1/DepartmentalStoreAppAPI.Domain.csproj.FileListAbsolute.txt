@@ -1,0 +1,9 @@
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Domain\bin\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.deps.json
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Domain\bin\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Domain\bin\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.pdb
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.csprojAssemblyReference.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.dll
+C:\Users\s s infotech\Sandeep\EntityFrameworkCore\DepartmentalStoreAppAPI\DepartmentalStoreAppAPI.Domain\obj\Debug\netcoreapp3.1\DepartmentalStoreAppAPI.Domain.pdb
